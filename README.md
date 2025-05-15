@@ -13,8 +13,7 @@ Working with:
 - Linux
 - Python
 
-Connect or support:
-- [Telegram](https://t.me/richievarlog)
+Support:
 - [Buy Me a Coffee](https://buymeacoffee.com/richiepagard)
 - [Coffete IR](https://www.coffeete.ir/richie)
 
