@@ -1,4 +1,4 @@
-# Richie
+## Hi I'm Richie!
 
 Programmer with an interest in:
 
