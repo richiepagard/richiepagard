@@ -1,4 +1,4 @@
-## Hi I'm Richie!
+#### Hi, I'm Richie!
 
 Programmer with an interest in:
 
@@ -12,6 +12,7 @@ Working with:
 - C
 - Linux
 - Python
+
 
 Support:
 - [Buy Me a Coffee](https://buymeacoffee.com/richiepagard)
