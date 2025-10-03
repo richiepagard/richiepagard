@@ -1,4 +1,4 @@
-#### Hi, I'm Richard, Call Me Richie!
+#### Hi, I'm Richie!
 
 Programmer with an interest in:
 
