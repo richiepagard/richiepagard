@@ -8,7 +8,6 @@ I like simple systems, clean code, and understanding how things work under the h
   <a href="https://www.django-rest-framework.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux"></a>
   <a href="https://www.python.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python"></a>
   <a href="https://www.djangoproject.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="Django"></a>
-  <a href="https://www.postgresql.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" alt="PostgreSQL"></a>
 </p>
 
 
