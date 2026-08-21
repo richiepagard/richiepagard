@@ -1,32 +1,34 @@
-# Richie Pagard
+### Hi, I'm Richie!
+#
 
-### Backend developer building with Python.
+Programmer with an interest in:
 
-I like simple systems, clean code, and understanding how things work under the hood.
-
-<p align="left">
-  <a href="https://www.django-rest-framework.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" alt="Linux"></a>
-  <a href="https://www.python.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=django" alt="Django"></a>
-</p>
-
-
-### Currently
-
-Building backend systems, improving my understanding of software engineering, and gradually exploring lower-level computing.
+- **Backend development**
+- **Software Engineering**
+- **Database Design**
+- **System Architecture**
 
 #
 
-### Interested in
+Having fun with:
 
-**Low-level programming** · **Computer Architecture** · **Linux** · **Cybersecurity** · **Vintage Computing**
-
-<br>
-
-> **Simplicity. Clarity. Control.**
+- **Low-level programming**
+- **Vintage computing**
 
 #
 
-<p align="left">
-  <a href="https://medium.com/@richiepagard"><img src="https://go-skill-icons.vercel.app/api/icons?i=medium" alt="Medium"></a>
-</p>
+Working with:
+
+- **Linux**
+- **Python**
+- **Django**
+
+#
+
+Support:
+- [Buy Me a Coffee](https://buymeacoffee.com/richiepagard)
+- [Coffete IR](https://www.coffeete.ir/richie)
+
+#
+
+> "Simplicity. Clarity. Control."
