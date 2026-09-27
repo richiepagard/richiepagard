@@ -1,4 +1,5 @@
 ### Hi, I'm Richie!
+> Richie Pagard
 #
 
 Programmer with an interest in:
