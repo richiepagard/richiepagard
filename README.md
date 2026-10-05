@@ -4,7 +4,7 @@
 #### I'm working with
 - GNU/Linux.
 - Python and C for scripting and having fun...
-- Developing web and web APIs to do some creative stuff.
+- Developing web and web APIs to do some creative things.
 
 #
 
