@@ -1,35 +1,20 @@
-### Hi, I'm Richie!
+## Hello. This is Richie
 > Richie Pagard
-#
 
-Programmer with an interest in:
-
-- **Backend development**
-- **Software Engineering**
-- **Database Design**
-- **System Architecture**
+#### I'm working with
+- GNU/Linux.
+- Python and C for scripting and having fun...
+- Developing web and web APIs to do some creative stuff.
 
 #
 
-Having fun with:
-
-- **Low-level programming**
-- **Vintage computing**
-
-#
-
-Working with:
-
-- **Linux**
-- **Python**
-- **Django**
-
-#
-
-Support:
-- [Buy Me a Coffee](https://buymeacoffee.com/richiepagard)
-- [Coffete IR](https://www.coffeete.ir/richie)
-
-#
-
-> "Simplicity. Clarity. Control."
+```
+ ______________________________
+< Enjoy Living In Binary World >
+ ------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
